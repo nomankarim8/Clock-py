@@ -87,7 +87,7 @@ Created by [nomankarim8](https://github.com/nomankarim8)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](licence) file for details.
 ```
 
 This `README.md` file provides an overview of the project, installation instructions, usage guide, and an explanation of the code.
