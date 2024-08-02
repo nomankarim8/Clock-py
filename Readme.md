@@ -1,7 +1,7 @@
 ![logo]( https://github.com/nomankarim8/nomankarim8/blob/main/image.png?raw=true )
 
 
-## Digital Clock
+# Digital Clock
 
 This is a simple digital clock application created using Python's `tkinter` library. The clock displays the current time and updates every second.
 
