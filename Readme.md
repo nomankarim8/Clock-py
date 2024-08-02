@@ -1,7 +1,7 @@
-Sure! Here's a `README.md` file for your clock application:
 
-```markdown
-# Digital Clock
+
+
+## Digital Clock
 
 This is a simple digital clock application created using Python's `tkinter` library. The clock displays the current time and updates every second.
 
