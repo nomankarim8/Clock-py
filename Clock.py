@@ -36,7 +36,6 @@ label.pack(anchor='center')
 
 time()
 
-
 mainloop()
 
 # created by nomankarim8
