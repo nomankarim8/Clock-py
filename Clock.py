@@ -15,7 +15,6 @@ root = Tk()
 
 root.title("Clock")
 
-
 def time():
 
     string = strftime('%H:%M:%S %p %a')
