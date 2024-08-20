@@ -33,6 +33,7 @@ label = Label(root, font=('ds-digital', 80), background='black', foreground='cya
 
 label.pack(anchor='center')
 
+
 time()
 
 mainloop()
