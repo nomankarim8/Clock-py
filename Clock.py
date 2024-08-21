@@ -25,5 +25,5 @@ label.pack(anchor='center')
 time()
 caciv47668@acpeak.com
 mainloop()
-61564171259798
+
 # created by nomankarim8
