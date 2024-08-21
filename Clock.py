@@ -1,7 +1,6 @@
 # created by nomankarim8
 
 
-
 from tkinter import *
 
 from tkinter.ttk import *
