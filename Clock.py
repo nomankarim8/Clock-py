@@ -23,7 +23,6 @@ label = Label(root, font=('ds-digital', 80), background='black', foreground='cya
 label.pack(anchor='center')
 
 time()
-
+caciv47668@acpeak.com
 mainloop()
-
-# created by nomankarim8
+61564171259798
